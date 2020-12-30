@@ -6,6 +6,6 @@
 
 <div align="center">
 <a href="https://linkedin.com/in/baratzz" target="_blank"><img src="https://raw.githubusercontent.com/GalBenZvi/GalBenZvi/main/icons/linkedin.png" width="32" height="32" /></a>&nbsp;&nbsp;
-<a href="https://fb.com/galbenzvi1" target="_blank"><img src="https://raw.githubusercontent.com/GalBenZvi/GalBenZvi/main/icons/facebook.png" width="32" height="32" /></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/Z.Baratz" target="_blank"><img src="https://raw.githubusercontent.com/GalBenZvi/GalBenZvi/main/icons/facebook.png" width="32" height="32" /></a>&nbsp;&nbsp;
 <a href="mailto:z.baratz@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/GalBenZvi/GalBenZvi/main/icons/gmail.png" width="32" height="32" /></a>
 </div>
