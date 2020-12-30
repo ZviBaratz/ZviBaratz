@@ -1,31 +1,12 @@
-<h1 align="center">Gal Ben-Zvi</h1>
-<h3 align="center">Neuroscience PhD student at Tel-Aviv University</h3>
+:brain: Neuroscience PhD student at Tel-Aviv University
 
+:star: Currently working on [TheLabbingProject](https://github.com/TheLabbingProject) alongside my PhD in [Prof. Yaniv Assaf's lab](https://www.yalab.sites.tau.ac.il/)
+
+:speech_balloon: Ask me about MRI data management, Python and neuroimaging, Linux, open source software, open science, and home pickling
+
+Connect with me:
 <div align="center">
-
-- 🔭 I’m currently working on [DWIPrep](https://github.com/GalBenZvi/dwiprep) software package, and my PhD project, called The Connectome Plasticity:
-
-<div align="center"><img
-src = TheConnectomePlasticity.png
-alt = "TheConnectomePlasticity"
-weight = 200
-height = 400
-/>
-
-- 💬 Ask me about **Diffusion and functional MRI preprocessing, Neuroplasticity, connectivity (structural & functional)**
-
-- 📫 How to reach me **hershkovitz1@mail.tau.ac.il**
-
-- 📄 Know about my experiences [www.linkedin.com/in/gal-ben-zvi](www.linkedin.com/in/gal-ben-zvi)
-
-<h3>Connect with me:</h3>
-
-[![GitHub](icons/github.png)](https://github.com/GalBenZvi)
-[![LinkedIn](icons/linkedin.png)](https://linkedin.com/in/gal-ben-zvi)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/galbenzvi93)
-<a href="https://fb.com/galbenzvi1" target="_blank"><img src="icons/facebook.png" width="32" height="32" /></a>
-<a href="mailto:hershkovitz1@mail.tau.ac.il" target="_blank"><img src="icons/gmail.png" width="32" height="32" /></a>
-
-<h3 >Languages and Tools:</h3>
-
-<div align="center"><a href="https://git-scm.com/" target="_blank"> <img src="icons/git.png" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="icons/matlab.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="icons/vscode.png" alt="python" width="40" height="40"/> </a> </p>
+<a href="https://linkedin.com/in/baratzz" target="_blank"><img src="https://raw.githubusercontent.com/GalBenZvi/GalBenZvi/main/icons/linkedin.png" width="32" height="32" /></a>
+<a href="https://fb.com/galbenzvi1" target="_blank"><img src="https://raw.githubusercontent.com/GalBenZvi/GalBenZvi/main/icons/facebook.png" width="32" height="32" /></a>
+<a href="mailto:z.baratz@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/GalBenZvi/GalBenZvi/main/icons/gmail.png" width="32" height="32" /></a>
+</div>
